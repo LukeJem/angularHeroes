@@ -3,8 +3,8 @@ import {HeroService} from '../hero.service';
 import {Hero} from '../Hero';
 
 @Component({
-  selector: 'app-dashboard',
   moduleId: 'module.id',
+  selector: 'app-dashboard',
   templateUrl: './dashboard.component.html',
   styleUrls: ['./dashboard.component.css']
 })
